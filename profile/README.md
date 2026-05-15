@@ -1,1 +1,1 @@
-![Aim Image](./aim.png)
+![Aim Image](/aim.png)
